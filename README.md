@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ## Running the CLI
 ```
 cd ./voice-activity-detector
-python3 .\voice_activity_detector.py -i .\input_file.wav
+python3 ./voice_activity_detector.py -i input_file.wav
 ```
